@@ -13,3 +13,6 @@ But react its not working because dom is not updated and in jquery variable is i
 Another example facebook:
 
 In facebook show message count on chatbox,top bar and all palace.
+
+
+In this we have this problem variable is changed on click but UI is not updated so react allow to update UI by using its hook.
