@@ -16,3 +16,6 @@ In facebook show message count on chatbox,top bar and all palace.
 
 
 In this we have this problem variable is changed on click but UI is not updated so react allow to update UI by using its hook.
+
+
+JS updated variable but for ui update we have to use react and react provide hooks for that functioanlity
