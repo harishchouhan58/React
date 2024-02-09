@@ -1,1 +1,15 @@
+Hooks:
 
+With jquery when we create counter function 
+
+let counter =1;
+
+onclick value will increase by 1
+
+then counter = counter + 1;
+
+But react its not working because dom is not updated and in jquery variable is increased so for this reason we have to learn hooks.
+
+Another example facebook:
+
+In facebook show message count on chatbox,top bar and all palace.
